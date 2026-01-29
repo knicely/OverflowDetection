@@ -11,3 +11,5 @@ Instructions:
   - Use c2 to subset your SAR imagery to a reasonable size.
      - This step is optional, but HIGHLY recommended. Without it, the region to search is insanely huge and will take a very long time to process. 
   - Use c3 to locate possible overflow locations. 
+
+If using the Example Dataset, start with notebook c3 and select 'ExampleDataset' as your folder in section 2.1. 
